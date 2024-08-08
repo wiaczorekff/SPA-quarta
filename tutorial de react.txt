@@ -1,0 +1,16 @@
+criar um projeto em react:
+no prompt de comando
+
+-instala a atualização do npm
+npm install -g npm@10.8.2
+
+-crie o projeto na pasta selecionada(digite cmd na barra de pesquisa da pasta)
+create-react-app projeto1
+
+-depois de instalado vá para a pasta do projeto
+cd projeto1
+
+-rode o projeto
+npm start
+
+-abra a pasta no vs code
