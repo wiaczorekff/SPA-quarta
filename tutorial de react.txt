@@ -5,7 +5,7 @@ no prompt de comando
 npm install -g npm@10.8.2
 
 -crie o projeto na pasta selecionada(digite cmd na barra de pesquisa da pasta)
-create-react-app projeto1
+npx create-react-app nomeDoProjeto
 
 -depois de instalado vá para a pasta do projeto
 cd projeto1
