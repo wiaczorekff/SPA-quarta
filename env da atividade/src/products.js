@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ProductCard from './ProductCard';
+import ProductCard from './components/ProductCard';
 
 const Container = styled.div`
   display: flex;
