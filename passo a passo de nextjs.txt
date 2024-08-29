@@ -1,0 +1,23 @@
+tutorial de next js:
+
+no terminal use:
+npx create-next-app@latest
+
+depois proceda com "y"
+
+depois de um nome ao seu projeto
+
+reponda 
+ Would you like to use TypeScript? ... No / Yes
+√ Would you like to use ESLint? ... No / Yes
+√ Would you like to use Tailwind CSS? ... No / Yes
+√ Would you like to use `src/` directory? ... No / Yes
+√ Would you like to use App Router? (recommended) ... No / Yes
+√ Would you like to customize the default import alias (@/*)? ... No / Yes
+Creating a new Next.js app in C:\Users\felipe.aswiaczorek\Documents\atv-next1.
+
+depois
+cd atv-next1
+
+e por fim:
+npm run dev
